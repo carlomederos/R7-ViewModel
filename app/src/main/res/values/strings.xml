@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Unscramble</string>
+    <string name="instructions">Ordena las letras para formar la palabra correcta.</string>
+    <string name="start_instructions">Adivina 10 palabras desordenadas. ¡Cada acierto suma 20 puntos!</string>
+    <string name="player_name">Nombre del jugador</string>
+    <string name="start_game">Comenzar</string>
+    <string name="hello_player">Jugador: %1$s</string>
+    <string name="enter_your_word">Escribe la palabra</string>
+    <string name="wrong_guess">¡Incorrecto! Inténtalo de nuevo</string>
+    <string name="submit">Enviar</string>
+    <string name="skip">Omitir</string>
+    <string name="score">Puntaje: %d</string>
+    <string name="word_count">%1$d/%2$d</string>
+    <string name="congratulations">¡Juego terminado!</string>
+    <string name="result_player">Bien jugado, %1$s</string>
+    <string name="you_scored">Puntaje final: %d</string>
+    <string name="words_played">Palabras jugadas: %d</string>
+    <string name="play_again">Jugar de nuevo</string>
+    <string name="change_player">Cambiar de jugador</string>
+</resources>
